@@ -11,6 +11,10 @@
   max-width: 64px;
 }
 
+.video-detail{
+  display: inline-block;
+}
+
 .video-detail .details {
   margin-top: 10px;
   padding: 10px;
@@ -24,4 +28,13 @@
 
 .list-group-item:hover{
   background-color: #eee;
+}
+
+.list-group{
+  float: right;
+  display: inline-flex;
+}
+
+.media-body{
+  padding-left: 5px;
 }

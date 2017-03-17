@@ -17,7 +17,7 @@ class App extends Component {
      };
 
 
-     this.videoSearch('cooking');
+     this.videoSearch('Earthquaker Devices Afterneath Reverb');
   }
 
   videoSearch(term){
